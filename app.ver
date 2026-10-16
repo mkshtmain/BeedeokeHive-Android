@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "appUpdate": {
+  "androidUpdate": {
     "versionCode": 110,
     "versionName": "1.10.67",
+    "apkUrl": "",
+    "changelog": "",
+    "forceUpdate": true
+  },
+  "windowsUpdate": {
+    "versionCode": 14,
+    "versionName": "1.4.0",
     "apkUrl": "",
     "changelog": "",
     "forceUpdate": true
