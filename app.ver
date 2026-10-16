@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "appUpdate": {
+    "versionCode": 110,
+    "versionName": "1.10.67",
+    "apkUrl": "",
+    "changelog": "",
+    "forceUpdate": true
+  }
+}
